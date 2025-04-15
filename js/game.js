@@ -60,3 +60,4 @@ function verificarResposta() {
     }
     document.getElementById("pontuacao").innerText = pontuacao;
 }
+
